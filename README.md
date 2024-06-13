@@ -23,4 +23,6 @@ The purpose of this repository is to:
 - **Question 10:** python program that converts a string to uppercase
 - **Question 11:** python program that generates the first n numbers in fibonacci sequence
 - **Question 12:** python program that calculates sum of digits of a given number
+- **Question 13:** python program that asks the user their birth year and calculates their age
+  
   
