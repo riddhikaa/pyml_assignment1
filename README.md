@@ -24,5 +24,18 @@ The purpose of this repository is to:
 - **Question 11:** python program that generates the first n numbers in fibonacci sequence
 - **Question 12:** python program that calculates sum of digits of a given number
 - **Question 13:** python program that asks the user their birth year and calculates their age
-  
+- **Question 14:** python program that reads multiple lines of input until user enters an empty line and then prints all the lines
+- **Question 15:** python program that reads data from csv file and writes it in the console
+- **Question 16:** python Program that counts the frequency of each character in a string
+- **Question 17:** python program that converts a given string to title case
+- **Question 18:** python program that checks if two strings are anagram of each other
+- **Question 19:** python program that removes all punctuations in a given string
+- **Question 20:** python program that takes a list of numbers and returns their sum
+- **Question 21:** python program that counts the occurrence of a specific element in a list
+- **Question 22:** python program that returns minimum and maximum numbers from a list of numbers
+- **Question 23:** python program to convert temperature form celsius to farhenheit and vice versa
+- **Question 24:** python program that acts as a simple calculator and uses these operators(+, -, *, /).
+- **Question 25:** python program that copies content of one text file to another
+- **Question 26:** python program that checks if a string starts with a given prefix or ends with a given suffix
+- **Question 27:** python program that converts a string into a list of its characters
   
